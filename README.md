@@ -4,7 +4,7 @@ Questions regarding this repository should be directed to Zhen Hu (zhennhu@umich
 
 This repository contains the scripts and data to recreate the case study presented in the following book chapter:
 
-**A Tutorial on Digital Twin for Predictive Maintenance**
+**Hu, Z., Hu, C., and Hu, W., A Tutorial on Digital Twin for Predictive Maintenance, Structural Health Monitoring/Management (SHM) in Aerospace Structures, 2nd Edition, Fuh-Gwo Yuan (Editor), 2023**
   
 Zhen Hu<sup>1</sup>, Chao Hu<sup>2</sup> and Weifei Hu<sup>3</sup>
 
